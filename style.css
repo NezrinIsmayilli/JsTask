@@ -1,0 +1,13 @@
+div{
+    position: absolute;
+    cursor: pointer;
+    border: 1px solid black;
+}
+button{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
